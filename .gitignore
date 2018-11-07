@@ -48,6 +48,11 @@ compile_commands.json
 CTestTestfile.cmake
 
 ### VisualStudioCode ###
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+/x64
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
